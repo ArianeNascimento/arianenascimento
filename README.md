@@ -3,9 +3,6 @@
 - 🌱 Comecei no universo de programação em maio/21.
 - 👩🏻‍💻 Sempre estudando HTML, CSS, JavaScript, Python ou Django.
 - 🤖 Minha grande paixão na programação é o front-end 
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arianenascimento&show_icons=true&theme=panda) 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arianenascimento&theme=panda&layout=compact)](https://github.com/arianenascimento/github-readme-stats)
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Ari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
